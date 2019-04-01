@@ -14,25 +14,25 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Tomas - Exploring Data Science 
+title: Tomas Fox - Exploring Data Science 
 
 # Short description of your site
-description: Personal page showing analyses based on Data 
+description: Personal space showing analyses based on Data 
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Medium blog "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Links:
+    - Medium blog "https://medium.com/@TomAlexanderFox"
+    - Quora page: "https://www.quora.com/profile/Tomas-Fox-1"
+    - GitHub Page: "https://tomfox1.github.io/aboutme/"
+  Author's home: "https://tomfox1.github.io/aboutme/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "IMG_1245.JPG"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -73,8 +73,8 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: daattali
-  github: daattali
+#facebook: daattali
+  github: Tomfox1
   twitter: TomAlexanderFox
 #  reddit: yourname
 #  google-plus: +DeanAttali
