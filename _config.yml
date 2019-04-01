@@ -27,7 +27,7 @@ navbar-links:
   Links:
     - Medium blog "https://medium.com/@TomAlexanderFox"
     - Quora page: "https://www.quora.com/profile/Tomas-Fox-1"
-    - GitHub Page: "https://tomfox1.github.io/aboutme/"
+    - GitHub Page: "https://github.com/tomfox1"
   Author's home: "https://tomfox1.github.io/aboutme/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
