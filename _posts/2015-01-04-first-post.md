@@ -4,4 +4,4 @@ title: ERC20 Stablecoin Analysis!
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+A visualization project that explores address count as well as total transaction count for ERC20 tokens 
