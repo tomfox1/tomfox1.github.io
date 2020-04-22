@@ -24,7 +24,6 @@ description: Personal space showing analyses based on Data
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
   Links:
     - Medium blog "https://medium.com/@TomAlexanderFox"
     - Quora page: "https://www.quora.com/profile/Tomas-Fox-1"
