@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 99 Problems Generator
 ---
 
