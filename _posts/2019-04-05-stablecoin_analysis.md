@@ -4,3 +4,5 @@ title: [Stablecoin Analysis] (https://medium.com/@TomAlexanderFox/cryptocurrenci
 
 ---
 
+Welcome! 
+I hope you enjoy my post! 
