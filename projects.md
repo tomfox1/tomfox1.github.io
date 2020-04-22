@@ -8,16 +8,11 @@ comments: true
 ---
 
 
-<img style="width:500px;height:600px;
+<img style="width:200px;height:200px"
 src="https://github.com/tomfox1/tomfox1.github.io/blob/master/img/Airbnb_portfolio.png">
 
-<img style="width:500px;height:600px; src="https://github.com/tomfox1/tomfox1.github.io/blob/master/img/stablecoins_portfolio.png">
+<img style="width:200px;height:200px"
+src="https://github.com/tomfox1/tomfox1.github.io/blob/master/img/stablecoins_portfolio.png">
 
-<img style="width:500px;height:600px; src="https://github.com/tomfox1/tomfox1.github.io/blob/master/img/99problems_portfolio.png">
-
-
-
-
-
-
-
+<img style="width:200px;height:200px"
+src="https://github.com/tomfox1/tomfox1.github.io/blob/master/img/99problems_portfolio.png">
