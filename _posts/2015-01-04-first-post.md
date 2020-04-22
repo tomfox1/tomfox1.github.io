@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: ERC20 Stablecoin Analysis!
 image: /img/hello_world.jpeg
 ---
 
