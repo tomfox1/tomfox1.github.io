@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 99 Problems Generator
+image: /img/99problems_portfolio.png
 ---
 
 [A Natural Language Processing project using Open AI's GPT-2](https://ninenineproblems.com/)
