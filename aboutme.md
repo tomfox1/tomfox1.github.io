@@ -8,4 +8,4 @@ Hi all, my name is Tomas Fox, I've been lucky to live in different countries and
 
 I recently finished Lambda's Data Science program, and also worked 4 months as a Team Lead, where I helped other students with the ultimate goal of making their path to find an industry job a little bit easier. 
 
-I have worked with other Data Scientists as well as Software Engineers and have worked in projects ranfing from visualization and predictive modeling to NLP and neural networks. Currently looking for a job in the cryptocurrency industry! 
+I have worked with other Data Scientists and Software Engineers in projects ranging from data visualization and predictive modeling to NLP and neural networks. Currently looking for a job in the cryptocurrency industry! 
