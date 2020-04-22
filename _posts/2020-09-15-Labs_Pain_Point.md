@@ -5,6 +5,8 @@ title: 99 Problems Generator
 
 [A Natural Language Processing project using Open AI's GPT-2](https://ninenineproblems.com/)
 
+Check out my project on [Github](https://github.com/labs15-pain-point)!
+
 **Highlights:** 
 * Applied a script for web scraping using Selenium and BeautifulSoup to collect data from AngelList
 * Fed ~ 170,00 company descriptions from Crunchbase into Open-AI’s NLP GPT-2 model and generated usable human-readable project ideas  
