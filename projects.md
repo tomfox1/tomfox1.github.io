@@ -8,5 +8,5 @@ tags: [test]
 comments: true
 ---
 
-![Airbnb Price Navigator](
+![Airbnb Price Navigator](tomfox1.github.io/img/Airbnb_portfolio.png)
 
