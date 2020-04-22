@@ -1,8 +1,6 @@
 ---
 layout: post
-title: [Stablecoin Analysis](https://medium.com/@TomAlexanderFox/cryptocurrencies-stable-coins-and-erc20-tokens-f05e795c3968)
-
+title: Stablecoin Analysis
 ---
 
-Welcome! 
-I hope you enjoy my post! 
+[Click hear to read more!] (https://medium.com/@TomAlexanderFox/cryptocurrencies-stable-coins-and-erc20-tokens-f05e795c3968)
