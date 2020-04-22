@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: [Stablecoin Analysis]
 gh-repo: labs15-pain-point/Data-Science
 gh-badge: watch 
