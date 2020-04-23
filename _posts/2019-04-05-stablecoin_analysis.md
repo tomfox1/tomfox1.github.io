@@ -1,7 +1,7 @@
 ---
 layout: page
 title: [Stablecoin Analysis]
-image: /img/btc.png
+image: /img/bitcoin.svg
 ---
 [A visualization project exploring adoption metrics on cryptocurrencies](https://medium.com/@TomAlexanderFox/cryptocurrencies-stable-coins-and-erc20-tokens-f05e795c3968)
 
